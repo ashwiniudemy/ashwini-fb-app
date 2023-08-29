@@ -10,7 +10,7 @@
   <packaging>war</packaging>
 
   <name>hdfc-webapp Maven Webapp</name>
-  <!-- Hi Ashwini FIXME change it to the project's website -->
+  <!-- Hi Ashwini    FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
   <properties>
