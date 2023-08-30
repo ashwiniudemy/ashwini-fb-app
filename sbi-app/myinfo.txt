@@ -7,3 +7,5 @@ school:abc
 
 
 address:Pune
+
+hobby:study
