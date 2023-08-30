@@ -1,3 +1,6 @@
 Name:Ashwini Subodhan Mane
 Company:Infosys
 Mobile:8983771348
+
+email:gmail.com
+school:abc
